@@ -1,7 +1,9 @@
 # ACADProp
 This is a bunch of lisp scripts to help with generating Naval Architecture drawings. Developed in 2009, Uploaded for backup and might be useful for someone. 
 
-Instructions to Generate Propeller Drawings:
+Instructions to Generate Propeller Drawings (Wageniniam B4 series Propeller):
+Original Link: https://code.google.com/archive/p/acadprop/
+
 Unzip all files to D:/
 (important. do not put in any folders, just in d:/)
 
